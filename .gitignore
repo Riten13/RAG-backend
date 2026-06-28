@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Local data
+uploads/
+chroma_db/
